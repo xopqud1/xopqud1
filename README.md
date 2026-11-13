@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Привет, я xopqud1 👋</h1>
 
-<!--
-**xopqud1/xopqud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Изучаю веб-разработку, Git и командную работу над кодом.
+</p>
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Создаю учебные веб-проекты и постепенно собираю здесь свои работы. Практикую вёрстку, JavaScript, работу с ветками, pull request и задачами на GitHub.
+
+## Проекты
+
+| Проект | Что внутри |
+| --- | --- |
+| [Team-LPR](https://github.com/xopqud1/Team-LPR) | Командный учебный сайт на HTML, CSS и JavaScript. Работа с ветками, pull request и GitHub Issues. |
+| [git-lab-5](https://github.com/xopqud1/git-lab-5) | Практика Git: создание и слияние веток, разрешение конфликтов и работа с удалённым репозиторием. |
+
+## Инструменты
+
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub` · `VS Code`
+
+---
+
+[Посмотреть все публичные репозитории](https://github.com/xopqud1?tab=repositories)
